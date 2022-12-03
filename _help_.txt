@@ -1,0 +1,4 @@
+^ for Ctrl
+! for Alt
+# for Win
++ for Shift
